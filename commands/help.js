@@ -92,9 +92,9 @@ module.exports = {
 
     helpMessage += `> For further assistance, contact the developer,\n`;
 
-    helpMessage += `Gmail: korisawaumuzaki@gmail.com\n`;
+    helpMessage += `Gmail: yhanaalvarez997@gmail.com\n`;
 
-    helpMessage += `Facebook: https://www.facebook.com/aljur.pogoy.2024`;
+    helpMessage += `Facebook: https://www.facebook.com/chat.gpt.user;
 
   
 
